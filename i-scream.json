@@ -38,24 +38,22 @@
       "image" : "strawberry-sprinkle.svg"
     },
     {
-      "name" : "Stupendous Strawberry",
-      "calories" : 450,
+      "name" : "Bubblegum Bonanza",
+      "calories" : 375,
       "type" : "frozen yogurt",
       "ingredients" : [
-        "wild strawberries",
-        "milk chocolate dip",
+        "bubblegum candies",
         "candy sprinkles"
       ],
       "image" : "ice-cream-xtra1.svg"
     },
     {
-      "name" : "Stupendous Strawberry",
-      "calories" : 450,
-      "type" : "frozen yogurt",
+      "name" : "Velvety Vanilla with Creamy Chocolate Chips",
+      "calories" : 325,
+      "type" : "ice cream",
       "ingredients" : [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
+        "chocolate chips",
+        "vanilla"
       ],
       "image" : "ice-cream-xtra2.svg"
     }
